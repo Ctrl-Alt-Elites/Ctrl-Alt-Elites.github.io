@@ -86,7 +86,6 @@ export default function Categories(props) {
 
         // Removing the clicked category from the arrays
         myArray = removeItemFromArray(myArray, value)
-        
 
         // Mapping
         // Creating li's from the finalized table with all duplicates removed
